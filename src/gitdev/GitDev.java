@@ -11,6 +11,7 @@ public class GitDev {
         
         System.out.println("Dev two changes");
         
+        System.out.println("Changes After in dev one branch ");
     }
     
 }
